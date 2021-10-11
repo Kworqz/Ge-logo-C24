@@ -1,1 +1,2 @@
-# Ge-logo-C24
+# Geologist
+Geologist Project
